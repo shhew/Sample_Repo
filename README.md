@@ -1,2 +1,2 @@
 # Sample_Repo
-This is a sample repository
+This is a sample edit file
